@@ -11,10 +11,12 @@ Features 📋
   - Check Account Balance: View the current balance in the account.
   
 Requirements 🛠️
+
   C++ Compiler: Make sure you have a C++ compiler installed (e.g., GCC, Clang, or Visual Studio).
   Basic C++ Knowledge: This project demonstrates basic concepts like functions, classes, and conditionals.
 
 Code Structure 📂
+
   ATM Class: Contains functions for handling account operations.
 
   - generateAcc(): Generates a random 12-digit account number.
