@@ -19,7 +19,7 @@ Code Structure 📂
 
   ATM Class: Contains functions for handling account operations.
 
-  - generateAcc(): Generates a random 12-digit account number.
+  - generateAcc(): Generates a 12-digit account number.
   - openAcc(): Opens a new account by taking user details.
   - setPin(): Allows setting a 4-digit PIN.
   - checkBalance(): Displays the current account balance.
